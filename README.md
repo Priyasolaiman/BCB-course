@@ -1,2 +1,2 @@
 # BCB-course
-This is the repository for a graduate Data Visualization Class.
+This is a repository for a class named Foundation of Data Visualization.
